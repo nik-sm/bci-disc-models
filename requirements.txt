@@ -1,0 +1,23 @@
+# dependencies
+jupyterlab
+kaleido
+loguru
+numpy
+plotly
+rich
+scikit-learn==0.23.2  # TODO - update after replaceing previous model checkpoints 
+tensorboard
+thu_rsvp_dataset
+torch
+torchmetrics
+torchvision
+
+# project utilities
+black
+black[jupyter]
+flake8
+ipython==8.0.1
+isort
+pre-commit
+pytype
+pytest

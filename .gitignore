@@ -1,0 +1,12 @@
+*.pyc
+*__pycache__*
+venv*
+*.pytype
+*.egg-info
+
+datasets
+results
+results_*
+
+*.pkl
+*.zip

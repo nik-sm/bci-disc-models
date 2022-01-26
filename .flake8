@@ -1,0 +1,14 @@
+[flake8]
+# E203 whitespace before ':'
+# E266 too many leading '#' for block comment
+# W503 line break before binary operator
+ignore = E203, E266, W503  
+max-line-length = 120
+max-complexity = 18
+select = B,C,E,F,W,T4,B9
+exclude = 
+    .git,
+    __pycache__,
+    *.egg-info
+    *.eggs
+    build
