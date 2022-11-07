@@ -25,4 +25,11 @@ To run tests: `pytest --disable-warnings -s`
 # Citation
 
 If you use this code, please cite our paper:
-(Citation coming soon)
+```bibtex
+@misc{2211.02630,
+    Author = {Niklas Smedemark-Margulies and Basak Celik and Tales Imbiriba and Aziz Kocanaogullari and Deniz Erdogmus},
+    Title = {Recursive Estimation of User Intent from Noninvasive Electroencephalography using Discriminative Models},
+    Year = {2022},
+    Eprint = {arXiv:2211.02630},
+}
+```
