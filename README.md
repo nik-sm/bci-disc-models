@@ -22,6 +22,11 @@ To reproduce our experiments, please follow these steps:
 6. Make plots: `python scripts/plots.py`
 
 To run tests: `pytest --disable-warnings -s`
+# PDF
+To read our paper, see: 
+- https://ieeexplore.ieee.org/document/10095715
+- https://arxiv.org/pdf/2211.02630.pdf
+
 # Citation
 
 If you use this code, please cite our paper:
