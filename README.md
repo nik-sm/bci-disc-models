@@ -26,10 +26,13 @@ To run tests: `pytest --disable-warnings -s`
 
 If you use this code, please cite our paper:
 ```bibtex
-@misc{2211.02630,
-    Author = {Niklas Smedemark-Margulies and Basak Celik and Tales Imbiriba and Aziz Kocanaogullari and Deniz Erdogmus},
-    Title = {Recursive Estimation of User Intent from Noninvasive Electroencephalography using Discriminative Models},
-    Year = {2022},
-    Eprint = {arXiv:2211.02630},
+@inproceedings{smedemark2023recursive,
+  title={Recursive Estimation of User Intent From Noninvasive Electroencephalography Using Discriminative Models},
+  author={Smedemark-Margulies, Niklas and Celik, Basak and Imbiriba, Tales and Kocanaogullari, Aziz and Erdo{\u{g}}mu{\c{s}}, Deniz},
+  booktitle={ICASSP 2023-2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={1--5},
+  year={2023},
+  organization={IEEE},
+  doi={10.1109/ICASSP49357.2023.10095715}
 }
 ```
